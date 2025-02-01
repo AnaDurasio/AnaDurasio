@@ -1,6 +1,6 @@
 ## Olá, eu sou a Ana Clara !! ✨✨✨
 <ul>
-<li>🌱 Estudando desenvolvimento front-end e .NET </li>
+<li>🌱 Estudando desenvolvimento front-end e UI Design </li>
 <li> 👯 Pronomes: ela/dela </li>
 </ul>
 <div>
